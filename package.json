@@ -1,26 +1,20 @@
 {
-  "name": "node-js-getting-started",
-  "version": "0.1.5",
-  "description": "A sample Node.js app using Express 4",
+  "name": "request-header-parser",
+  "version": "0.0.1",
+  "description": "Request Header Parser Microservice for freecodecamp.com",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "dependencies": {
-    "ejs": "2.3.3",
-    "express": "4.13.3"
-  },
   "engines": {
-    "node": "0.12.7"
+    "node": "5.3.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-getting-started"
+    "url": "https://github.com/xfilipe/request-header-parser"
   },
   "keywords": [
-    "node",
-    "heroku",
-    "express"
+    "node"
   ],
   "license": "MIT"
 }
