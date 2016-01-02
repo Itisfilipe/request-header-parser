@@ -16,5 +16,10 @@
   "keywords": [
     "node"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "ipware": "0.0.7"
+  }
 }
